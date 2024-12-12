@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a  from Brazil.</p>
+<p align="left">My name is Pedro and I'm from Brazil.</p>
 
 ###
 
