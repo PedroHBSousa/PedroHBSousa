@@ -1,10 +1,18 @@
-<div align="left">
+<div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkzNGxtM3kweGFsMWxjc3F1cW44bzdtdDljejdjcGd3eHY5MWpkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="left">Hi there! I'm glad you're here 👋</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrobarbosasousa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">Hi there! I'm glad you're here 👋</h1>
 
 ###
 
@@ -58,13 +66,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔗 Here’s my LinkedIn</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedrobarbosasousa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
