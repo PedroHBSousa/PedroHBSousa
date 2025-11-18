@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm from Brazil...<br><br>- 🔭 I’m working as a software developer.</p>
+<p align="left">🇧🇷 I'm from Brazil...<br><br>- 🚀 I’m working as a software developer<br><br>- 🎓 Technologist Degree in Systems Analysis and Development</p>
 
 ###
 
