@@ -1,18 +1,10 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkzNGxtM3kweGFsMWxjc3F1cW44bzdtdDljejdjcGd3eHY5MWpkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedrobarbosasousa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">Hi there! I'm glad you're here 👋</h1>
 
 ###
 
@@ -20,7 +12,7 @@
 
 ###
 
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as a software developer.</p>
+<p align="left">I'm from Brazil...<br><br>- 🔭 I’m working as a software developer.</p>
 
 ###
 
@@ -56,13 +48,31 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PedroHBSousa&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHBSousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">🔗 Here’s my LinkedIn</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrobarbosasousa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
